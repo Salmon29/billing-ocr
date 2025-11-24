@@ -107,7 +107,7 @@ CREATE TABLE documents (
 
 プロジェクト内の請求書読み取りを実行
 
-github\billing-ocr\請求書サンプル.png
+![サンプル](https://github.com/Salmon29/billing-ocr/blob/main/%E8%AB%8B%E6%B1%82%E6%9B%B8%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB.png)
 
 読み取り結果
 
@@ -193,4 +193,5 @@ github\billing-ocr\請求書サンプル.png
 ```
 
 Document Created: 2025-11-25  
+
 Architecture Decision: Hybrid AI-OCR Strategy
